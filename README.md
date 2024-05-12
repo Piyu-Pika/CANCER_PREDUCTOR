@@ -1,25 +1,26 @@
-# Purchase Prediction And MicroNumerosity 💰📈
+# Cancer Predictor 🩺💻
 
-This repository contains the code and resources for my internship project with the YBI Foundation of AI/ML, focused on Purchase Prediction and MicroNumerosity using Python and Jupyter Notebook. 🐍📔
+This repository contains the code and resources for a machine learning project focused on predicting the likelihood of cancer based on various features and data. The project was developed using Python and Jupyter Notebook.
 
 ## Project Overview
 
-The project aimed to develop models and techniques for predicting customer purchase behavior and analyzing micronumerosity data. The following tasks were accomplished:
+The goal of this project was to build a reliable and accurate model for cancer prediction. By leveraging machine learning algorithms and data analysis techniques, the following tasks were accomplished:
 
-1. **Purchase Prediction**: Built machine learning models to predict whether a customer will make a purchase based on various features and data. 🛒🔮
-
-2. **MicroNumerosity**: Explored and analyzed micronumerosity data, which refers to the study of small or underrepresented groups within a larger population. 👥🔍
+1. **Data Preprocessing**: Cleaned and prepared the dataset for effective model training. 📊🔍
+2. **Feature Engineering**: Identified and engineered relevant features from the data to improve model performance. ⚙️
+3. **Model Training**: Trained and evaluated various machine learning models for cancer prediction. 🧠🔬
+4. **Model Deployment**: Prepared the trained model for deployment and integration into a user-friendly application. 🚀
 
 ## Repository Structure
 
 - `notebooks/`: Contains Jupyter Notebook files with the code, analysis, and visualizations for the project. 📓
-- `data/`: Directory for storing the datasets used in the project (not included in the repository due to size constraints or privacy concerns). 📊
+- `data/`: Directory for storing the dataset used in the project (not included in the repository due to size constraints or privacy concerns). 📂
 - `models/`: Trained machine learning models (if applicable). 🤖
 - `requirements.txt`: List of Python packages and dependencies required to run the code. 📋
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/Piyu-Pika/Purchase_Prediction_And_MicroNumerosity.git` 📥
+1. Clone the repository: `git clone https://github.com/Piyu-Pika/CANCER_PREDICTOR.git` 📥
 2. Install the required packages: `pip install -r requirements.txt` ⚙️
 3. Open the relevant Jupyter Notebook files in the `notebooks/` directory to explore the code, analysis, and visualizations. 🚀
 
